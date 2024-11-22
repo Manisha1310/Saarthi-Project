@@ -1,1 +1,1 @@
-#Desktop Assistant - Python project
+Desktop Assistant - Python project
